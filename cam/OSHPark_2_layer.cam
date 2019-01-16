@@ -76,7 +76,7 @@
                         "rotate": false,
                         "upside_down": false
                     },
-                    "board_outline": true,
+                    "board_outline": false,
                     "config": {
                         "file_function": "Profile",
                         "plating": "non-plated"
@@ -86,7 +86,7 @@
                         46,
                         20
                     ],
-                    "milling": true,
+                    "milling": false,
                     "name": "Board Outline",
                     "polarity": "positive",
                     "type": "gerber_layer"
@@ -297,7 +297,7 @@
             ]
         }
     ],
-    "timestamp": "2019-01-14T10:28:13",
+    "timestamp": "2019-01-16T14:27:12",
     "type": "EAGLE CAM job",
     "units": "metric",
     "version": "8.6.0"
